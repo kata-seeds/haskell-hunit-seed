@@ -1,12 +1,12 @@
-# [Kata Seeds](https://github.com/kata-seeds): Haskell
-[![Build Status](https://travis-ci.org/kata-seeds/haskell-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/haskell-seed)
+# [Kata Seeds](https://github.com/kata-seeds): Haskell + HUnit
+[![Build Status](https://travis-ci.org/kata-seeds/haskell-hunit-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/haskell-hunit-seed)
 
 ## Getting Started
 
 Clone this repo with `git`:
 
-    git clone https://github.com/kata-seeds/haskell-seed.git
-    cd haskell-seed
+    git clone https://github.com/kata-seeds/haskell-hunit-seed.git
+    cd haskell-hunit-seed
 
 Install dependencies and run your tests with `make`:
 
