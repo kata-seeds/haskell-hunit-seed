@@ -1,4 +1,4 @@
-# [Kata Seeds](https://github.com/kata-seeds): Haskell + HUnit
+# [Kata Seeds](http://kata-seeds.github.io): Haskell + HUnit
 [![Build Status](https://travis-ci.org/kata-seeds/haskell-hunit-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/haskell-hunit-seed)
 
 ## Getting Started
