@@ -1,9 +1,8 @@
 all: dependencies test
 
 test:
-	runhaskell *_test.hs
-
+	cabal test
 dependencies:
-	which runhaskell
+	which cabal
 
 .PHONY: all dependencies test
