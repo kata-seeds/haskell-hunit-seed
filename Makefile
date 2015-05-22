@@ -2,7 +2,8 @@ all: dependencies test
 
 test:
 	cabal test
+
 dependencies:
-	which cabal
+	cabal install --avoid-reinstalls --enable-tests
 
 .PHONY: all dependencies test
